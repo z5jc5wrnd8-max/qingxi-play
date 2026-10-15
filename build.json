@@ -1,0 +1,10 @@
+{
+ "target": "default-webgl",
+ "build": 3,
+ "status": "success",
+ "commit": "1198b35a1a97596b3d345bbb8cb59ebe3cf87239",
+ "branch": "main",
+ "unity": "6000_3_26f1",
+ "finished": "2026-10-15T15:57:40.896Z",
+ "zipBytes": 40019578
+}
